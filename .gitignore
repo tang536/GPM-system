@@ -1,0 +1,26 @@
+# ===== Build outputs =====
+web/back/bin/
+web/back/obj/
+web/back/wwwroot/
+web/front/node_modules/
+web/front/dist/
+
+# ===== Logs =====
+*.log
+
+# ===== IDE / OS =====
+.vs/
+.idea/
+*.user
+Thumbs.db
+Desktop.ini
+
+# ===== Agent / internal data =====
+.workbuddy/
+
+# ===== Local secrets / temp =====
+*.local
+_tmp/
+
+# ===== Runtime uploaded files (user data, not source) =====
+web/back/uploads/
